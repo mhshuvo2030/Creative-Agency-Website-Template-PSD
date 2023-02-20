@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "mehedi-exam-2": "npx tailwindcss -i ./source/input.css -o ./public/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
