@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+@font-face {
+    font-family: 'Bernadette';
+    src: url('font/Bernadette.eot');
+    src: url('font/Bernadette.eot?#iefix') format('embedded-opentype'),
+        url('font/Bernadette.woff2') format('woff2'),
+        url('font/Bernadette.woff') format('woff'),
+        url('font/Bernadette.ttf') format('truetype'),
+        url('font/Bernadette.svg#Bernadette') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+.suvo {
+    font-family: Bernadette;
+}
+
+.mehedi {
+    font-family: Lato;
+}
